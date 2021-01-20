@@ -1,0 +1,53 @@
+{
+  "name": "BU1",
+  "category": "BU",
+  "fullQuizUrl": "http://www.quia.com/quiz/1135665.html",
+  "questions": [
+    {
+      "question": "What are the three primary or true colors that are the basis for all subsequent shades, tints, and hues?",
+      "answer1": "Blue, red, and green",
+      "answer2": "Red, black, and white",
+      "answer3": "Black, yellow, and white",
+      "answer4": "Yellow, blue, and red",
+      "correct": "Yellow, blue, and red",
+      "feedback": "Reference: NAVEDTRA 14044 BU 3&@ Vol 2, Chapter 8"
+    },
+    {
+      "question": "Dirt and fungus are best removed from concrete and masonry by washing with which of the following types of solutions?",
+      "answer1": "Emulsion",
+      "answer2": "Alkaline",
+      "answer3": "Efflorescene",
+      "answer4": "Trisodium phosphate",
+      "correct": "Trisodium phosphate",
+      "feedback": "Reference: NAVEDTRA 14044 BU 3&@ Vol 2, Chapter 8"
+    },
+    {
+      "question": "Spraying paint too thickly or moving the spray gun too slowly are most likely to cause which of the following paint failures?",
+      "answer1": "Chalking",
+      "answer2": "Peeling",
+      "answer3": "Blistering",
+      "answer4": "Wrinkling",
+      "correct": "Wrinkling",
+      "feedback": "Reference: NAVEDTRA 14044 BU 3&@ Vol 2, Chapter 8"
+    },
+    {
+      "question": "Before painting, a plaster patch should set for what minimum time?",
+      "answer1": "1 day",
+      "answer2": "2 days",
+      "answer3": "3 days",
+      "answer4": "Until thoroughly dry",
+      "correct": "Until thoroughly dry",
+      "feedback": "Reference: NAVEDTRA 14044 BU 3&@ Vol 2, Chapter 8"
+    },
+    {
+      "question": "A total of how many layers of concrete should be placed in the mold when a compressive strength test specimen is prepared?",
+      "answer1": "One",
+      "answer2": "Two",
+      "answer3": "Three",
+      "answer4": "Four",
+      "correct": "Three",
+      "feedback": "Reference: NAVEDTRA 14044 BU 3&@ Vol 2, Chapter 8"
+    }
+  ]
+}
+
